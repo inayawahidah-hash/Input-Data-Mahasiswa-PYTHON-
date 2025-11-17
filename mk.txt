@@ -1,0 +1,15 @@
+=== DATA KHS MAHASISWA ===
+
+Nama : INAYA NUR WAHIDAH
+NPM  : 232370041
+----------------------------------------
+Mata Kuliah               SKS   Nilai  Bobot  NXB   
+Pancasila                 2     A      4.0    8.0   
+UI/UX Design              3     B+     3.5    10.5  
+Teknologi Open Source     3     A      4.0    12.0  
+----------------------------------------
+Total SKS : 8
+Total NXB : 30.5
+IP Semester : 3.81
+========================================
+
